@@ -1,0 +1,2 @@
+# CursoIA
+Repositorio inicial cursoIA
